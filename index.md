@@ -1,9 +1,24 @@
-# James C. Butler
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+<div>
+<strong>Bioinformatics PhD candidate & Marie Curie Fellow</strong><br>
+Machine learning and generative AI for large-scale biological and healthcare data
+</div>
+
+<div style="text-align: right; font-size: 0.95em;">
+📧 jamesccbutler@gmail.com<br>
+📞 +353 089 250 5361<br>
+🇮🇪 Ireland · Dual UK / US citizen
+</div>
+
+</div>
+
+<hr>
 
 **Bioinformatics PhD candidate & Marie Curie Fellow** specializing in machine learning and generative AI for large-scale biological and healthcare data. Research experience with transformers, diffusion models, GANs, and statistical learning, with a strong foundation in applied statistics and interdisciplinary research.
 
 📧 jamesccbutler@gmail.com  
-📞 +353 085 814 3048  
+📞 +353 089 250 5361  
 🇮🇪 Ireland | Dual UK / US citizen  
 
 ---

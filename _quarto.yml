@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  navbar: false
+
+format:
+  html:
+    toc: false
+    theme: default
+  pdf:
+    toc: false
+    documentclass: article
+    geometry: margin=1in

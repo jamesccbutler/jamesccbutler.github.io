@@ -16,7 +16,7 @@ James C. Butler
 
 ---
 
-## Education
+## Education (THIS IS OLD)
 
 ### PhD in Computer Science / Microbiology — *Marie Curie Fellow*  
 **University College Cork**, Ireland | 2021–Present  

@@ -45,7 +45,7 @@ p { margin: 0.35rem 0; }
   content:""; position:absolute; left:0; right:0; top:0.95em;
   border-top:1px solid #000;
 }
-.cv-section > span {
+.cv-section .label {
   position: relative; display:inline-block;
   padding-right:0.6rem; background:#fff; font-weight:700;
 }
@@ -65,8 +65,13 @@ p { margin: 0.35rem 0; }
 </style>
 
 ::: {.content-visible when-format="html"}
-<div class="cv-name">James C. Butler</div>
-<div class="cv-contact">📧 jamesccbutler@gmail.com · 📞 +353 089 250 5361 · 🇮🇪 Ireland · Dual UK / US citizen</div>
+::: {.cv-name}
+James C. Butler
+:::
+
+::: {.cv-contact}
+📧 jamesccbutler@gmail.com · 📞 +353 089 250 5361 · 🇮🇪 Ireland · Dual UK / US citizen
+:::
 :::
 
 ::: {.content-visible when-format="pdf"}
@@ -76,34 +81,64 @@ p { margin: 0.35rem 0; }
 
 **Bioinformatics PhD candidate & Marie Curie Fellow** specializing in machine learning and generative AI for large-scale biological and healthcare data. Research experience with transformers, diffusion models, GANs, and statistical learning, with a strong foundation in applied statistics and interdisciplinary research.
 
+<!-- =======================
+EDUCATION
+======================= -->
+
 ::: {.content-visible when-format="html"}
-<div class="cv-section"><span>Education</span></div>
+::: {.cv-section}
+::: {.label}
+Education
+:::
+:::
 
-<div class="cv-entry">
-  <div class="cv-line">
-    <div class="cv-left">PhD in Computer Science / Microbiology — <em>Marie Curie Fellow</em>, University College Cork</div>
-    <div class="cv-date">2021–Present</div>
-  </div>
-  <div class="cv-sub">Advisor: <em>[Advisor name]</em></div>
-  <div class="cv-sub">Thesis: <em>[PhD thesis title]</em></div>
-</div>
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
+PhD in Computer Science / Microbiology — *Marie Curie Fellow*, University College Cork
+:::
+::: {.cv-date}
+2021–Present
+:::
+:::
+::: {.cv-sub}
+Advisor: *[Advisor name]*
+:::
+::: {.cv-sub}
+Thesis: *[PhD thesis title]*
+:::
+:::
 
-<div class="cv-entry">
-  <div class="cv-line">
-    <div class="cv-left">MSc Applied Statistics & Datamining (Distinction), University of St Andrews</div>
-    <div class="cv-date">2019–2020</div>
-  </div>
-  <div class="cv-sub">Advisor: <em>[Advisor name]</em></div>
-  <div class="cv-sub">Thesis: <em>Synthetic Data for Training Convolutional Neural Networks</em> (18.7 / 20)</div>
-</div>
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
+MSc Applied Statistics & Datamining (Distinction), University of St Andrews
+:::
+::: {.cv-date}
+2019–2020
+:::
+:::
+::: {.cv-sub}
+Advisor: *[Advisor name]*
+:::
+::: {.cv-sub}
+Thesis: *Synthetic Data for Training Convolutional Neural Networks* (18.7 / 20)
+:::
+:::
 
-<div class="cv-entry">
-  <div class="cv-line">
-    <div class="cv-left">BA Economics & Visual and Environmental Studies, Harvard University</div>
-    <div class="cv-date">2011–2015</div>
-  </div>
-  <div class="cv-sub">Selected quantitative training: econometrics, statistical methods, computational analysis</div>
-</div>
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
+BA Economics & Visual and Environmental Studies, Harvard University
+:::
+::: {.cv-date}
+2011–2015
+:::
+:::
+::: {.cv-sub}
+Selected quantitative training: econometrics, statistical methods, computational analysis
+:::
+:::
 :::
 
 ::: {.content-visible when-format="pdf"}
@@ -121,32 +156,58 @@ p { margin: 0.35rem 0; }
 \cvsub{Selected quantitative training: econometrics, statistical methods, computational analysis}
 :::
 
+<!-- =======================
+PROFESSIONAL EXPERIENCE
+======================= -->
+
 ::: {.content-visible when-format="html"}
-<div class="cv-section"><span>Professional Experience</span></div>
+::: {.cv-section}
+::: {.label}
+Professional Experience
+:::
+:::
 
-<div class="cv-entry">
-  <div class="cv-line">
-    <div class="cv-left">Imperial College London</div>
-    <div class="cv-date">2020–2021</div>
-  </div>
-  <div class="cv-sub"><em>Research Assistant</em> — Designed and conducted statistical analyses to identify systemic issues across health and social care systems; evaluated interventions and outcomes using applied statistical methods.</div>
-</div>
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
+Imperial College London
+:::
+::: {.cv-date}
+2020–2021
+:::
+:::
+::: {.cv-sub}
+*Research Assistant* — Designed and conducted statistical analyses to identify systemic issues across health and social care systems; evaluated interventions and outcomes using applied statistical methods.
+:::
+:::
 
-<div class="cv-entry">
-  <div class="cv-line">
-    <div class="cv-left">DMP Statistical Solutions UK Ltd</div>
-    <div class="cv-date">2020–2022</div>
-  </div>
-  <div class="cv-sub"><em>Statistical Consultant</em> — Delivered applied statistical analyses and reports for industry clients including L’Oréal; designed a custom data-driven web application for Raymond James.</div>
-</div>
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
+DMP Statistical Solutions UK Ltd
+:::
+::: {.cv-date}
+2020–2022
+:::
+:::
+::: {.cv-sub}
+*Statistical Consultant* — Delivered applied statistical analyses and reports for industry clients including L’Oréal; designed a custom data-driven web application for Raymond James.
+:::
+:::
 
-<div class="cv-entry">
-  <div class="cv-line">
-    <div class="cv-left">Le Grand Verre Wines</div>
-    <div class="cv-date">2015–2019</div>
-  </div>
-  <div class="cv-sub"><em>Co-founder; CMO; Partner; President; Board Member</em> — Built and scaled an international e-commerce business; led strategy, marketing, and fundraising; secured external investment; managed cross-border operations and partnerships.</div>
-</div>
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
+Le Grand Verre Wines
+:::
+::: {.cv-date}
+2015–2019
+:::
+:::
+::: {.cv-sub}
+*Co-founder; CMO; Partner; President; Board Member* — Built and scaled an international e-commerce business; led strategy, marketing, and fundraising; secured external investment; managed cross-border operations and partnerships.
+:::
+:::
 :::
 
 ::: {.content-visible when-format="pdf"}
@@ -160,4 +221,69 @@ p { margin: 0.35rem 0; }
 
 \cventry{Le Grand Verre Wines}{2015--2019}
 \cvsub{\emph{Co-founder; CMO; Partner; President; Board Member} — Built and scaled an international e-commerce business; led strategy, marketing, and fundraising; secured external investment; managed cross-border operations and partnerships.}
+:::
+
+<!-- =======================
+SKILLS / LANGUAGES / INTERESTS
+======================= -->
+
+::: {.content-visible when-format="html"}
+::: {.cv-section}
+::: {.label}
+Technical Skills
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-sub}
+**Programming:** Python, R
+:::
+::: {.cv-sub}
+**Machine Learning:** Transformers, diffusion models, GANs, representation learning
+:::
+::: {.cv-sub}
+**Statistics:** GLMs, multivariate analysis, hypothesis testing
+:::
+::: {.cv-sub}
+**Tools:** Linux, Git, Shiny
+:::
+:::
+
+::: {.cv-section}
+::: {.label}
+Languages
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-sub}
+Spanish — Intermediate
+:::
+:::
+
+::: {.cv-section}
+::: {.label}
+Interests
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-sub}
+Endurance running (3 marathons, 3:13 PR), music, travel
+:::
+:::
+:::
+
+::: {.content-visible when-format="pdf"}
+\cvsection{Technical Skills}
+\cvsub{\textbf{Programming:} Python, R}
+\cvsub{\textbf{Machine Learning:} Transformers, diffusion models, GANs, representation learning}
+\cvsub{\textbf{Statistics:} GLMs, multivariate analysis, hypothesis testing}
+\cvsub{\textbf{Tools:} Linux, Git, Shiny}
+
+\cvsection{Languages}
+\cvsub{Spanish — Intermediate}
+
+\cvsection{Interests}
+\cvsub{Endurance running (3 marathons, 3:13 PR), music, travel}
 :::

@@ -4,41 +4,6 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "James C. Butler\n\n\n📧 jamesccbutler@gmail.com · 📞 +353 089 250 5361 · 🇮🇪 Ireland · Dual UK / US citizen\nBioinformatics PhD candidate & Marie Curie Fellow specializing in machine learning and generative AI for large-scale biological and healthcare data. Research experience with transformers, diffusion models, GANs, and statistical learning, with a strong foundation in applied statistics and interdisciplinary research."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "",
-    "section": "Education",
-    "text": "Education\n\nPhD in Computer Science / Microbiology — Marie Curie Fellow\nUniversity College Cork, Ireland | 2021–Present\nResearch on deep generative and transformer-based models for large-scale omics and biological sequence data, including GANs, diffusion models, and attention-based architectures for healthcare applications.\n\n\n\nMSc Applied Statistics & Datamining (Distinction)\nUniversity of St Andrews, Scotland | 2019–2020\nDissertation: Synthetic Data for Training Convolutional Neural Networks (18.7 / 20)\nCoursework included machine learning, medical statistics, multivariate analysis, GLMs, and statistical computing.\n\n\n\nBA Economics & Visual and Environmental Studies\nHarvard University, USA | 2011–2015\nQuantitative focus including econometrics, statistical methods, and computational analysis."
-  },
-  {
-    "objectID": "index.html#research-professional-experience",
-    "href": "index.html#research-professional-experience",
-    "title": "",
-    "section": "Research & Professional Experience",
-    "text": "Research & Professional Experience\n\nResearch Assistant\nImperial College London, UK | 2020–2021\nNational Institute for Health Research (Applied Research Collaboration)\n- Designed and conducted statistical analyses to identify systemic issues across health and social care systems\n- Evaluated interventions and outcomes using applied statistical and data-driven methods\n\n\n\nStatistical Consultant\nDMP Statistical Solutions UK Ltd, UK | 2020–2022\n- Delivered applied statistical analyses and reports for industry clients including L’Oréal\n- Designed a custom data-driven web application for Raymond James\n\n\n\nCo-founder & Board Member\nLe Grand Verre Wines, New York & Paris | 2015–2019\n- Co-founded and scaled an international e-commerce business\n- Led strategy, analytics-driven marketing, and fundraising\n- Secured external investment and managed cross-border operations and teams\n\n\n\nTeaching Assistant / Guest Speaker\nHarvard University, USA | 2018\n- Teaching assistant for Game Theory\n- Guest speaker on leadership and entrepreneurship\n- Editorial contributor to The Financial Technology Revolution (Marion Labouré)\n\n\n\nResearch Assistant\nUniversity of Pennsylvania Biomechanics Lab, USA | 2011–2012\n- Contributed to published research on lung injury prevention and reactive oxygen species\n- Collected and analyzed experimental data on lung and brain pathologies"
-  },
-  {
-    "objectID": "index.html#technical-skills",
-    "href": "index.html#technical-skills",
-    "title": "",
-    "section": "Technical Skills",
-    "text": "Technical Skills\n\nProgramming: Python, R\n\nMachine Learning: Transformers, diffusion models, GANs, representation learning\n\nStatistics: GLMs, multivariate analysis, hypothesis testing\n\nData: Large-scale biological and healthcare datasets\n\nTools: Linux, Git, Shiny"
-  },
-  {
-    "objectID": "index.html#languages",
-    "href": "index.html#languages",
-    "title": "",
-    "section": "Languages",
-    "text": "Languages\n\nSpanish — Intermediate"
-  },
-  {
-    "objectID": "index.html#interests",
-    "href": "index.html#interests",
-    "title": "",
-    "section": "Interests",
-    "text": "Interests\nEndurance running (3 marathons, 3:13 PR), music, travel"
+    "text": "James C. Butler\n\n\n📧 jamesccbutler@gmail.com · 📞 +353 089 250 5361 · 🇮🇪 Ireland · Dual UK / US citizen\n\nBioinformatics PhD candidate & Marie Curie Fellow specializing in machine learning and generative AI for large-scale biological and healthcare data. Research experience with transformers, diffusion models, GANs, and statistical learning, with a strong foundation in applied statistics and interdisciplinary research.\n\nEducation\n\n\n\n&lt;div class=\"cv-left\"&gt;PhD in Computer Science / Microbiology — &lt;em&gt;Marie Curie Fellow&lt;/em&gt;, University College Cork&lt;/div&gt;\n&lt;div class=\"cv-date\"&gt;2021–Present&lt;/div&gt;\n\n\nAdvisor: [Advisor name]\n\n\nThesis: [PhD thesis title]\n\n\n\n\n&lt;div class=\"cv-left\"&gt;MSc Applied Statistics & Datamining (Distinction), University of St Andrews&lt;/div&gt;\n&lt;div class=\"cv-date\"&gt;2019–2020&lt;/div&gt;\n\n\nAdvisor: [Advisor name]\n\n\nThesis: Synthetic Data for Training Convolutional Neural Networks (18.7 / 20)\n\n\n\n\n&lt;div class=\"cv-left\"&gt;BA Economics & Visual and Environmental Studies, Harvard University&lt;/div&gt;\n&lt;div class=\"cv-date\"&gt;2011–2015&lt;/div&gt;\n\n\nSelected quantitative training: econometrics, statistical methods, computational analysis\n\n\n\nProfessional Experience\n\n\n\n&lt;div class=\"cv-left\"&gt;Imperial College London&lt;/div&gt;\n&lt;div class=\"cv-date\"&gt;2020–2021&lt;/div&gt;\n\n\nResearch Assistant — Designed and conducted statistical analyses to identify systemic issues across health and social care systems; evaluated interventions and outcomes using applied statistical methods.\n\n\n\n\n&lt;div class=\"cv-left\"&gt;DMP Statistical Solutions UK Ltd&lt;/div&gt;\n&lt;div class=\"cv-date\"&gt;2020–2022&lt;/div&gt;\n\n\nStatistical Consultant — Delivered applied statistical analyses and reports for industry clients including L’Oréal; designed a custom data-driven web application for Raymond James.\n\n\n\n\n&lt;div class=\"cv-left\"&gt;Le Grand Verre Wines&lt;/div&gt;\n&lt;div class=\"cv-date\"&gt;2015–2019&lt;/div&gt;\n\n\nCo-founder; CMO; Partner; President; Board Member — Built and scaled an international e-commerce business; led strategy, marketing, and fundraising; secured external investment; managed cross-border operations and partnerships."
   }
 ]

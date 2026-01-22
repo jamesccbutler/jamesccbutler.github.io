@@ -86,108 +86,116 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div style="display: flex; justify-content: space-between; align-items: baseline;">
-<div style="font-weight: 600; font-size: 1.1em;">
+<!-- =======================
+HTML styles (website)
+======================= -->
+<style>
+body { line-height: 1.25; }
+p { margin: 0.35rem 0; }
+
+/* Header */
+.cv-name { text-align:center; font-size:2.05em; font-weight:700; margin:0.2rem 0 0.2rem 0; }
+.cv-contact { text-align:center; font-size:0.98em; white-space:nowrap; margin:0 0 0.7rem 0; }
+
+/* Section: full-width line with label sitting on it */
+.cv-section { position: relative; margin: 1.0rem 0 0.45rem 0; }
+.cv-section::before {
+  content:""; position:absolute; left:0; right:0; top:0.95em;
+  border-top:1px solid #000;
+}
+.cv-section > span {
+  position: relative; display:inline-block;
+  padding-right:0.6rem; background:#fff; font-weight:700;
+}
+
+/* Entry: left + right-aligned date */
+.cv-entry { margin: 0.35rem 0 0.55rem 0; }
+.cv-line {
+  display:grid;
+  grid-template-columns: 1fr max-content;
+  column-gap: 1rem;
+  align-items: baseline;
+}
+.cv-left { font-weight:700; }
+.cv-date { font-weight:700; text-align:right; white-space:nowrap; }
+
+.cv-sub { margin-top: 0.08rem; }
+</style>
+<div class="cv-name">
 James C. Butler
 </div>
-<div style="text-align: right; font-size: 0.95em; white-space: nowrap;">
-<pre><code>📧 jamesccbutler@gmail.com · 📞 +353 089 250 5361 · 🇮🇪 Ireland · Dual UK / US citizen</code></pre>
+<div class="cv-contact">
+📧 jamesccbutler@gmail.com · 📞 +353 089 250 5361 · 🇮🇪 Ireland · Dual UK / US citizen
 </div>
-</div>
-<hr>
 <p><strong>Bioinformatics PhD candidate &amp; Marie Curie Fellow</strong> specializing in machine learning and generative AI for large-scale biological and healthcare data. Research experience with transformers, diffusion models, GANs, and statistical learning, with a strong foundation in applied statistics and interdisciplinary research.</p>
-<hr>
-<section id="education" class="level2">
-<h2 class="anchored" data-anchor-id="education">Education</h2>
-<section id="phd-in-computer-science-microbiology-marie-curie-fellow" class="level3">
-<h3 class="anchored" data-anchor-id="phd-in-computer-science-microbiology-marie-curie-fellow">PhD in Computer Science / Microbiology — <em>Marie Curie Fellow</em></h3>
-<p><strong>University College Cork</strong>, Ireland | 2021–Present<br>
-Research on deep generative and transformer-based models for large-scale omics and biological sequence data, including GANs, diffusion models, and attention-based architectures for healthcare applications.</p>
-<hr>
-</section>
-<section id="msc-applied-statistics-datamining-distinction" class="level3">
-<h3 class="anchored" data-anchor-id="msc-applied-statistics-datamining-distinction">MSc Applied Statistics &amp; Datamining <em>(Distinction)</em></h3>
-<p><strong>University of St Andrews</strong>, Scotland | 2019–2020<br>
-Dissertation: <em>Synthetic Data for Training Convolutional Neural Networks</em> (18.7 / 20)<br>
-Coursework included machine learning, medical statistics, multivariate analysis, GLMs, and statistical computing.</p>
-<hr>
-</section>
-<section id="ba-economics-visual-and-environmental-studies" class="level3">
-<h3 class="anchored" data-anchor-id="ba-economics-visual-and-environmental-studies">BA Economics &amp; Visual and Environmental Studies</h3>
-<p><strong>Harvard University</strong>, USA | 2011–2015<br>
-Quantitative focus including econometrics, statistical methods, and computational analysis.</p>
-<hr>
-</section>
-</section>
-<section id="research-professional-experience" class="level2">
-<h2 class="anchored" data-anchor-id="research-professional-experience">Research &amp; Professional Experience</h2>
-<section id="research-assistant" class="level3">
-<h3 class="anchored" data-anchor-id="research-assistant">Research Assistant</h3>
-<p><strong>Imperial College London</strong>, UK | 2020–2021<br>
-National Institute for Health Research (Applied Research Collaboration)<br>
-- Designed and conducted statistical analyses to identify systemic issues across health and social care systems<br>
-- Evaluated interventions and outcomes using applied statistical and data-driven methods</p>
-<hr>
-</section>
-<section id="statistical-consultant" class="level3">
-<h3 class="anchored" data-anchor-id="statistical-consultant">Statistical Consultant</h3>
-<p><strong>DMP Statistical Solutions UK Ltd</strong>, UK | 2020–2022<br>
-- Delivered applied statistical analyses and reports for industry clients including L’Oréal<br>
-- Designed a custom data-driven web application for Raymond James</p>
-<hr>
-</section>
-<section id="co-founder-board-member" class="level3">
-<h3 class="anchored" data-anchor-id="co-founder-board-member">Co-founder &amp; Board Member</h3>
-<p><strong>Le Grand Verre Wines</strong>, New York &amp; Paris | 2015–2019<br>
-- Co-founded and scaled an international e-commerce business<br>
-- Led strategy, analytics-driven marketing, and fundraising<br>
-- Secured external investment and managed cross-border operations and teams</p>
-<hr>
-</section>
-<section id="teaching-assistant-guest-speaker" class="level3">
-<h3 class="anchored" data-anchor-id="teaching-assistant-guest-speaker">Teaching Assistant / Guest Speaker</h3>
-<p><strong>Harvard University</strong>, USA | 2018<br>
-- Teaching assistant for Game Theory<br>
-- Guest speaker on leadership and entrepreneurship<br>
-- Editorial contributor to <em>The Financial Technology Revolution</em> (Marion Labouré)</p>
-<hr>
-</section>
-<section id="research-assistant-1" class="level3">
-<h3 class="anchored" data-anchor-id="research-assistant-1">Research Assistant</h3>
-<p><strong>University of Pennsylvania Biomechanics Lab</strong>, USA | 2011–2012<br>
-- Contributed to published research on lung injury prevention and reactive oxygen species<br>
-- Collected and analyzed experimental data on lung and brain pathologies</p>
-<hr>
-</section>
-</section>
-<section id="technical-skills" class="level2">
-<h2 class="anchored" data-anchor-id="technical-skills">Technical Skills</h2>
-<ul>
-<li><strong>Programming:</strong> Python, R<br>
-</li>
-<li><strong>Machine Learning:</strong> Transformers, diffusion models, GANs, representation learning<br>
-</li>
-<li><strong>Statistics:</strong> GLMs, multivariate analysis, hypothesis testing<br>
-</li>
-<li><strong>Data:</strong> Large-scale biological and healthcare datasets<br>
-</li>
-<li><strong>Tools:</strong> Linux, Git, Shiny</li>
-</ul>
-<hr>
-</section>
-<section id="languages" class="level2">
-<h2 class="anchored" data-anchor-id="languages">Languages</h2>
-<ul>
-<li>Spanish — Intermediate</li>
-</ul>
-<hr>
-</section>
-<section id="interests" class="level2">
-<h2 class="anchored" data-anchor-id="interests">Interests</h2>
-<p>Endurance running (3 marathons, 3:13 PR), music, travel</p>
+<div class="cv-section">
+<span>Education</span>
+</div>
+<div class="cv-entry">
+<div class="cv-line">
+<pre><code>&lt;div class="cv-left"&gt;PhD in Computer Science / Microbiology — &lt;em&gt;Marie Curie Fellow&lt;/em&gt;, University College Cork&lt;/div&gt;
+&lt;div class="cv-date"&gt;2021–Present&lt;/div&gt;</code></pre>
+</div>
+<div class="cv-sub">
+Advisor: <em>[Advisor name]</em>
+</div>
+<div class="cv-sub">
+Thesis: <em>[PhD thesis title]</em>
+</div>
+</div>
+<div class="cv-entry">
+<div class="cv-line">
+<pre><code>&lt;div class="cv-left"&gt;MSc Applied Statistics &amp; Datamining (Distinction), University of St Andrews&lt;/div&gt;
+&lt;div class="cv-date"&gt;2019–2020&lt;/div&gt;</code></pre>
+</div>
+<div class="cv-sub">
+Advisor: <em>[Advisor name]</em>
+</div>
+<div class="cv-sub">
+Thesis: <em>Synthetic Data for Training Convolutional Neural Networks</em> (18.7 / 20)
+</div>
+</div>
+<div class="cv-entry">
+<div class="cv-line">
+<pre><code>&lt;div class="cv-left"&gt;BA Economics &amp; Visual and Environmental Studies, Harvard University&lt;/div&gt;
+&lt;div class="cv-date"&gt;2011–2015&lt;/div&gt;</code></pre>
+</div>
+<div class="cv-sub">
+Selected quantitative training: econometrics, statistical methods, computational analysis
+</div>
+</div>
+<div class="cv-section">
+<span>Professional Experience</span>
+</div>
+<div class="cv-entry">
+<div class="cv-line">
+<pre><code>&lt;div class="cv-left"&gt;Imperial College London&lt;/div&gt;
+&lt;div class="cv-date"&gt;2020–2021&lt;/div&gt;</code></pre>
+</div>
+<div class="cv-sub">
+<em>Research Assistant</em> — Designed and conducted statistical analyses to identify systemic issues across health and social care systems; evaluated interventions and outcomes using applied statistical methods.
+</div>
+</div>
+<div class="cv-entry">
+<div class="cv-line">
+<pre><code>&lt;div class="cv-left"&gt;DMP Statistical Solutions UK Ltd&lt;/div&gt;
+&lt;div class="cv-date"&gt;2020–2022&lt;/div&gt;</code></pre>
+</div>
+<div class="cv-sub">
+<em>Statistical Consultant</em> — Delivered applied statistical analyses and reports for industry clients including L’Oréal; designed a custom data-driven web application for Raymond James.
+</div>
+</div>
+<div class="cv-entry">
+<div class="cv-line">
+<pre><code>&lt;div class="cv-left"&gt;Le Grand Verre Wines&lt;/div&gt;
+&lt;div class="cv-date"&gt;2015–2019&lt;/div&gt;</code></pre>
+</div>
+<div class="cv-sub">
+<em>Co-founder; CMO; Partner; President; Board Member</em> — Built and scaled an international e-commerce business; led strategy, marketing, and fundraising; secured external investment; managed cross-border operations and partnerships.
+</div>
+</div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

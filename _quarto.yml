@@ -6,6 +6,9 @@ website:
   title: ""
   navbar: false
 
+render:
+  - index.qmd
+
 format:
   html:
     toc: false

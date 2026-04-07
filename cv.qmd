@@ -21,7 +21,7 @@ format:
 ---
 
 \begin{center}
-{\LARGE \textbf{James C. Butler}}\\
+{\LARGE \textbf{James C. C. Butler}}\\
 \vspace{0.3em}
 jamesccbutler@gmail.com \;·\; +353 089 250 5361 \;·\; Ireland \;·\; Dual UK / US citizen
 \end{center}
@@ -32,13 +32,15 @@ Bioinformatics PhD candidate \& Marie Curie Fellow specializing in machine learn
 
 ## Education
 
-\textbf{PhD in Computer Science / Microbiology — Marie Curie Fellow, University College Cork} \hfill \textbf{2021--Present}  
-Advisor: \emph{[Advisor name]}  
-Thesis: \emph{[PhD thesis title]}
+\textbf{PhD Candidate in Computer Science and Microbiology}\\
+\textbf{(Marie Curie Fellow), University College Cork (UCC)} \hfill \textbf{2021--Present}
+Advisor: \emph{Marcus Claesson}  
+Thesis: \emph{Generative Modelling and Transformer-Based Sequence Learning for Microbiome Analysis}
 
-\textbf{MSc Applied Statistics \& Datamining (Distinction), University of St Andrews} \hfill \textbf{2019--2020}  
-Advisor: \emph{[Advisor name]}  
-Thesis: \emph{Synthetic Data for Training Convolutional Neural Networks}
+\textbf{MSc Applied Statistics \& Datamining (Distinction), University of St Andrews} \hfill \textbf{2019--2020}\\
+Advisor: \emph{Carl Donovan}\\
+Thesis: \emph{Synthetic Data for Training Convolutional Neural Networks}\\
+\textit{Selected coursework:} Machine Learning, Advanced Data Analysis, Multivariate Analysis, Statistical Modelling (GLMs)
 
 \textbf{BA Economics \& Visual and Environmental Studies, Harvard University} \hfill \textbf{2011--2015}  
 Selected quantitative training: econometrics, statistical methods

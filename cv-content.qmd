@@ -1,0 +1,133 @@
+::: {.cv-name}
+James C. Butler
+:::
+
+::: {.cv-contact}
+jamesccbutler@gmail.com · +353 089 250 5361 · Ireland · Dual UK / US citizen
+:::
+
+**Bioinformatics PhD candidate & Marie Curie Fellow** specializing in machine learning and generative AI for large-scale biological and healthcare data. Research experience with transformers, diffusion models, GANs, and statistical learning, with a strong foundation in applied statistics and interdisciplinary research.
+
+## Education
+
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
+PhD in Computer Science / Microbiology — *Marie Curie Fellow*, University College Cork
+:::
+::: {.cv-date}
+2021--Present
+:::
+:::
+::: {.cv-sub}
+Advisor: *[Advisor name]*
+:::
+::: {.cv-sub}
+Thesis: *[PhD thesis title]*
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
+MSc Applied Statistics & Datamining (Distinction), University of St Andrews
+:::
+::: {.cv-date}
+2019--2020
+:::
+:::
+::: {.cv-sub}
+Advisor: *[Advisor name]*
+:::
+::: {.cv-sub}
+Thesis: *Synthetic Data for Training Convolutional Neural Networks* (18.7 / 20)
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
+BA Economics & Visual and Environmental Studies, Harvard University
+:::
+::: {.cv-date}
+2011--2015
+:::
+:::
+::: {.cv-sub}
+Selected quantitative training: econometrics, statistical methods, computational analysis
+:::
+:::
+
+## Professional Experience
+
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
+Imperial College London
+:::
+::: {.cv-date}
+2020--2021
+:::
+:::
+::: {.cv-sub}
+*Research Assistant* — Designed and conducted statistical analyses to identify systemic issues across health and social care systems; evaluated interventions and outcomes using applied statistical methods.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
+DMP Statistical Solutions UK Ltd
+:::
+::: {.cv-date}
+2020--2022
+:::
+:::
+::: {.cv-sub}
+*Statistical Consultant* — Delivered applied statistical analyses and reports for industry clients including L’Oréal; designed a custom data-driven web application for Raymond James.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
+Le Grand Verre Wines
+:::
+::: {.cv-date}
+2015--2019
+:::
+:::
+::: {.cv-sub}
+*Co-founder; CMO; Partner; President; Board Member* — Built and scaled an international e-commerce business; led strategy, marketing, and fundraising; secured external investment; managed cross-border operations and partnerships.
+:::
+:::
+
+## Technical Skills
+
+::: {.cv-sub}
+**Programming:** Python, R
+:::
+
+::: {.cv-sub}
+**Machine Learning:** Transformers, diffusion models, GANs, representation learning
+:::
+
+::: {.cv-sub}
+**Statistics:** GLMs, multivariate analysis, hypothesis testing
+:::
+
+::: {.cv-sub}
+**Tools:** Linux, Git, Shiny
+:::
+
+## Languages
+
+::: {.cv-sub}
+Spanish — Intermediate
+:::
+
+## Interests
+
+::: {.cv-sub}
+Endurance running (3 marathons, 3:13 PR), music, travel
+:::

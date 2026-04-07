@@ -1,0 +1,71 @@
+---
+title: ""
+format:
+  pdf:
+    toc: false
+    pdf-engine: lualatex
+    geometry: margin=1in
+    include-in-header:
+      text: |
+        \usepackage{enumitem}
+        \usepackage{parskip}
+        \setlength{\parindent}{0pt}
+        \usepackage{titlesec}
+
+        \titleformat{\section}
+          {\large\bfseries}
+          {}
+          {0em}
+          {}[\titlerule]
+
+        \titlespacing*{\section}{0pt}{1em}{0.4em}
+---
+
+\begin{center}
+{\LARGE \textbf{James C. Butler}}\\
+\vspace{0.3em}
+jamesccbutler@gmail.com \;·\; +353 089 250 5361 \;·\; Ireland \;·\; Dual UK / US citizen
+\end{center}
+
+\vspace{0.5em}
+
+Bioinformatics PhD candidate \& Marie Curie Fellow specializing in machine learning and generative AI for large-scale biological and healthcare data.
+
+## Education
+
+\textbf{PhD in Computer Science / Microbiology — Marie Curie Fellow, University College Cork} \hfill \textbf{2021--Present}  
+Advisor: \emph{[Advisor name]}  
+Thesis: \emph{[PhD thesis title]}
+
+\textbf{MSc Applied Statistics \& Datamining (Distinction), University of St Andrews} \hfill \textbf{2019--2020}  
+Advisor: \emph{[Advisor name]}  
+Thesis: \emph{Synthetic Data for Training Convolutional Neural Networks}
+
+\textbf{BA Economics \& Visual and Environmental Studies, Harvard University} \hfill \textbf{2011--2015}  
+Selected quantitative training: econometrics, statistical methods
+
+## Professional Experience
+
+\textbf{Imperial College London} \hfill \textbf{2020--2021}  
+\emph{Research Assistant} — Designed and conducted statistical analyses...
+
+\textbf{DMP Statistical Solutions UK Ltd} \hfill \textbf{2020--2022}  
+\emph{Statistical Consultant} — Delivered applied statistical analyses...
+
+\textbf{Le Grand Verre Wines} \hfill \textbf{2015--2019}  
+\emph{Co-founder; CMO; Partner; President; Board Member} — Built and scaled...
+
+## Technical Skills
+
+\textbf{Programming:} Python, R  
+\textbf{Machine Learning:} Transformers, diffusion models, GANs  
+\textbf{Statistics:} GLMs, multivariate analysis  
+\textbf{Tools:} Linux, Git, Shiny
+
+## Languages
+
+Spanish — Intermediate
+
+## Interests
+
+Endurance running (3 marathons, 3:13 PR), music, travel

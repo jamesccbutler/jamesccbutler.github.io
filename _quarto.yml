@@ -8,12 +8,15 @@ website:
 
 render:
   - index.qmd
+  - cv.qmd
 
 format:
   html:
     toc: false
     theme: default
+    css: styles.css
   pdf:
     toc: false
     documentclass: article
+    pdf-engine: lualatex
     geometry: margin=1in

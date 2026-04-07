@@ -12,13 +12,12 @@ format:
         \setlength{\parindent}{0pt}
         \usepackage{titlesec}
 
-        \titleformat{\section}
+        \titleformat{\subsection}
           {\large\bfseries}
           {}
           {0em}
           {}[\titlerule]
-
-        \titlespacing*{\section}{0pt}{1em}{0.4em}
+        \titlespacing*{\subsection}{0pt}{0.9em}{0.3em}
 ---
 
 \begin{center}

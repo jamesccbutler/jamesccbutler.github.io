@@ -1,8 +1,8 @@
 body {
   font-family: Georgia, "Times New Roman", serif;
-  max-width: 900px;
+  max-width: 800px;
   margin: 0 auto;
-  padding: 2rem 2rem;
+  padding: 3rem 3rem;
   line-height: 1.45;
   color: #111;
   background: #fff;
@@ -41,9 +41,9 @@ h2 {
 
 .cv-line {
   display: flex;
-  justify-content: space-between;
   align-items: flex-start;
-  gap: 1rem;
+  justify-content: space-between;
+  gap: 1.25rem;
 }
 
 .cv-left {
@@ -52,14 +52,16 @@ h2 {
 }
 
 .cv-date {
-  flex: 0 0 auto;
+  flex: 0 0 110px;
+  width: 110px;
   white-space: nowrap;
-  font-weight: 700;
   text-align: right;
+  font-weight: 700;
 }
 
 .cv-sub {
-  margin-top: 0.1rem;
+  margin-top: 0.12rem;
+  padding-right: 122px;
 }
 
 p {

@@ -8,6 +8,7 @@ format:
     include-in-header:
       text: |
         \usepackage{enumitem}
+        \setlist[itemize]{leftmargin=*, topsep=2pt, itemsep=1pt}
         \usepackage{parskip}
         \setlength{\parindent}{0pt}
         \usepackage{titlesec}
@@ -17,56 +18,148 @@ format:
           {}
           {0em}
           {}[\titlerule]
-        \titlespacing*{\subsection}{0pt}{0.9em}{0.3em}
+        \titlespacing*{\subsection}{0pt}{1.2em}{0.7em}
 ---
 
+```{=latex}
 \begin{center}
 {\LARGE \textbf{James C. C. Butler}}\\
-\vspace{0.3em}
+\vspace{0.6em}
 jamesccbutler@gmail.com \;·\; +353 089 250 5361 \;·\; Ireland \;·\; Dual UK / US citizen
 \end{center}
 
 \vspace{0.5em}
+```
 
-Bioinformatics PhD candidate \& Marie Curie Fellow specializing in machine learning and generative AI for large-scale biological and healthcare data.
+Bioinformatician and machine learning researcher developing generative and transformer-based models to learn predictive structure from high-dimensional biological data.
 
 ## Education
 
-\textbf{PhD Candidate in Computer Science and Microbiology}\\
-\textbf{(Marie Curie Fellow), University College Cork (UCC)} \hfill \textbf{2021--Present}
-Advisor: \emph{Marcus Claesson}  
-Thesis: \emph{Generative Modelling and Transformer-Based Sequence Learning for Microbiome Analysis}
+```{=latex}
+\noindent
+\begin{minipage}[t]{0.85\textwidth}
+\textbf{University College Cork}, \emph{PhD Computer Science \& Microbiology (Marie-Curie Fellow)}\\
+Advisor: Marcus Claesson \;|\; Thesis: ``Generative Modelling and Transformer-Based Sequence Learning for Microbiome Analysis''
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+\raggedleft \textbf{2021--2026}
+\end{minipage}
 
-\textbf{MSc Applied Statistics \& Datamining (Distinction), University of St Andrews} \hfill \textbf{2019--2020}\\
-Advisor: \emph{Carl Donovan}\\
-Thesis: \emph{Synthetic Data for Training Convolutional Neural Networks}\\
-\textit{Selected coursework:} Machine Learning, Advanced Data Analysis, Multivariate Analysis, Statistical Modelling (GLMs)
+\vspace{0.6em}
 
-\textbf{BA Economics \& Visual and Environmental Studies, Harvard University} \hfill \textbf{2011--2015}  
-Selected quantitative training: econometrics, statistical methods
+\noindent
+\begin{minipage}[t]{0.85\textwidth}
+\textbf{University of St Andrews}, \emph{MSc Applied Statistics \& Datamining (Distinction)}\\
+Advisor: Carl Donovan \;|\; Thesis: ``Synthetic Data for Training Convolutional Neural Networks''
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+\raggedleft \textbf{2019--2020}
+\end{minipage}
+
+\vspace{0.6em}
+
+\noindent
+\begin{minipage}[t]{0.85\textwidth}
+\textbf{Harvard University}, \emph{BA Economics}\\
+Secondary Field in Visual Environmental Studies
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+\raggedleft \textbf{2011--2015}
+\end{minipage}
+```
+
+## Research Experience
+
+```{=latex}
+\noindent
+\begin{minipage}[t]{0.85\textwidth}
+\textbf{Imperial College London}, \emph{Research Assistant (NIHR Applied Research Collaboration)}\\
+Designed and conducted statistical analyses to identify system-level challenges across health and social care, informing targeted interventions and evaluation strategies.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+\raggedleft \textbf{2020--2021}
+\end{minipage}
+
+\vspace{0.6em}
+
+\noindent
+\begin{minipage}[t]{0.85\textwidth}
+\textbf{University of Pennsylvania}, \emph{Research Assistant, Biomechanics Lab}\\
+Contributed to research on lung injury prevention via reactive oxygen species; conducted experimental data collection and analysis on lung and brain pathologies.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+\raggedleft \textbf{2011--2012}
+\end{minipage}
+```
 
 ## Professional Experience
 
-\textbf{Imperial College London} \hfill \textbf{2020--2021}  
-\emph{Research Assistant} — Designed and conducted statistical analyses...
+```{=latex}
 
-\textbf{DMP Statistical Solutions UK Ltd} \hfill \textbf{2020--2022}  
-\emph{Statistical Consultant} — Delivered applied statistical analyses...
+\noindent
+\begin{minipage}[t]{0.85\textwidth}
+\textbf{Univeristy College Cork}, \emph{Course Demonstrator}\\
+Computational Biology (UG); Systems Biology, Genomic Data Analysis (MSc)\\
+Designed and assessed problem sets; supported lab teaching and computational assignments
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+\raggedleft \textbf{2021--2024}
+\end{minipage}
 
-\textbf{Le Grand Verre Wines} \hfill \textbf{2015--2019}  
-\emph{Co-founder; CMO; Partner; President; Board Member} — Built and scaled...
+\vspace{0.6em}
+
+\noindent
+\begin{minipage}[t]{0.85\textwidth}
+\textbf{DMP Statistical Solutions UK Ltd}, \emph{Statistical Consultant}\\
+Designed web applications and delivered statistical reports for industry clients including L'Oréal and Raymond James.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+\raggedleft \textbf{2020--2022}
+\end{minipage}
+
+\vspace{0.6em}
+
+\noindent
+\begin{minipage}[t]{0.85\textwidth}
+\textbf{Le Grand Verre Wines}, \emph{Co-founder, President \& Board Member, CMO}\\
+Led market entry and growth strategy for a premium French wine company across the US and Europe; secured \$60,000 investment and established key accounts in NYC and LA.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+\raggedleft \textbf{2015--2019}
+\end{minipage}
+
+\vspace{0.6em}
+
+\noindent
+\begin{minipage}[t]{0.85\textwidth}
+\textbf{Harvard University}, \emph{Teaching Assistant \& Guest Speaker}\\
+Teaching assistant for Game Theory; guest lecturer on leadership and entrepreneurship.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+\raggedleft \textbf{2018}
+\end{minipage}
+```
 
 ## Technical Skills
-
-\textbf{Programming:} Python, R  
-\textbf{Machine Learning:} Transformers, diffusion models, GANs  
-\textbf{Statistics:} GLMs, multivariate analysis  
-\textbf{Tools:} Linux, Git, Shiny
-
-## Languages
-
-Spanish — Intermediate
+```{=latex}
+\textbf{Programming:} Python (PyTorch, HF), R, Bash\\
+\textbf{Machine Learning:} Transformers, diffusion models, GANs, representation learning, set-based models\\
+\textbf{Statistics:} GLMs, multivariate analysis, dimensionality reduction\\
+\textbf{Bioinformatics:} Metagenomics, tokenisation, microbiome statistical analysis\\
+\vspace{-1em}
+```
 
 ## Interests
+Generative AI for creative applications (animation, music); Running (2 marathons, 3:13 PB)
 
-Endurance running (3 marathons, 3:13 PR), music, travel
+
+

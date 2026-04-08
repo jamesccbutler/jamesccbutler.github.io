@@ -1,69 +1,97 @@
 ---
 title: ""
-format: html
+format:
+  html:
+    toc: false
+    theme: none
+    css: styles.css
 ---
 
-<p style="text-align:center; margin-bottom:0.5rem;">
-  <a href="cv.pdf" style="font-weight:600;">Download PDF CV</a>
-</p>
+<div style="text-align:center; margin-bottom:0.5rem;">
+  <a href="cv.pdf" style="font-weight:600; text-decoration:none;">Download PDF CV</a>
+</div>
 
-::: {.cv-name}
-James C. Butler
-:::
+<div class="cv-name">James C. C. Butler</div>
 
-::: {.cv-contact}
+<div class="cv-contact">
 jamesccbutler@gmail.com · +353 089 250 5361 · Ireland · Dual UK / US citizen
-:::
+</div>
 
-**Bioinformatics PhD candidate & Marie Curie Fellow** specializing in machine learning and generative AI for large-scale biological and healthcare data. Research experience with transformers, diffusion models, GANs, and statistical learning, with a strong foundation in applied statistics and interdisciplinary research.
+<div class="cv-summary">
+Bioinformatician and machine learning researcher developing generative and transformer-based models to learn predictive structure from high-dimensional biological data.
+</div>
 
 ## Education
 
 ::: {.cv-entry}
 ::: {.cv-line}
 ::: {.cv-left}
-PhD in Computer Science / Microbiology — *Marie Curie Fellow*, University College Cork
+**University College Cork**, *PhD Computer Science & Microbiology (Marie-Curie Fellow)*
 :::
 ::: {.cv-date}
-2021--Present
+2021--2026
 :::
 :::
 ::: {.cv-sub}
-Advisor: *[Advisor name]*
-:::
-::: {.cv-sub}
-Thesis: *[PhD thesis title]*
+Advisor: Marcus Claesson &#124; Thesis: “Generative Modelling and Transformer-Based Sequence Learning for Microbiome Analysis”
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-line}
 ::: {.cv-left}
-MSc Applied Statistics & Datamining (Distinction), University of St Andrews
+**University of St Andrews**, *MSc Applied Statistics & Datamining (Distinction)*
 :::
 ::: {.cv-date}
 2019--2020
 :::
 :::
 ::: {.cv-sub}
-Advisor: *[Advisor name]*
-:::
-::: {.cv-sub}
-Thesis: *Synthetic Data for Training Convolutional Neural Networks* (18.7 / 20)
+Advisor: Carl Donovan &#124; Thesis: “Synthetic Data for Training Convolutional Neural Networks”
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-line}
 ::: {.cv-left}
-BA Economics & Visual and Environmental Studies, Harvard University
+**Harvard University**, *BA Economics*
 :::
 ::: {.cv-date}
 2011--2015
 :::
 :::
 ::: {.cv-sub}
-Selected quantitative training: econometrics, statistical methods, computational analysis
+Secondary Field in Visual Environmental Studies
+:::
+:::
+
+## Research Experience
+
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
+**Imperial College London**, *Research Assistant (NIHR Applied Research Collaboration)*
+:::
+::: {.cv-date}
+2020--2021
+:::
+:::
+::: {.cv-sub}
+Designed and conducted statistical analyses to identify system-level challenges across health and social care, informing targeted interventions and evaluation strategies.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
+**University of Pennsylvania**, *Research Assistant, Biomechanics Lab*
+:::
+::: {.cv-date}
+2011--2012
+:::
+:::
+::: {.cv-sub}
+Contributed to research on lung injury prevention via reactive oxygen species; conducted experimental data collection and analysis on lung and brain pathologies.
 :::
 :::
 
@@ -72,71 +100,69 @@ Selected quantitative training: econometrics, statistical methods, computational
 ::: {.cv-entry}
 ::: {.cv-line}
 ::: {.cv-left}
-Imperial College London
+**University College Cork**, *Course Demonstrator*
 :::
 ::: {.cv-date}
-2020--2021
+2021--2024
 :::
 :::
 ::: {.cv-sub}
-*Research Assistant* — Designed and conducted statistical analyses to identify systemic issues across health and social care systems; evaluated interventions and outcomes using applied statistical methods.
+Computational Biology (UG); Systems Biology, Genomic Data Analysis (MSc)
+:::
+::: {.cv-sub}
+Designed and assessed problem sets; supported lab teaching and computational assignments
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-line}
 ::: {.cv-left}
-DMP Statistical Solutions UK Ltd
+**DMP Statistical Solutions UK Ltd**, *Statistical Consultant*
 :::
 ::: {.cv-date}
 2020--2022
 :::
 :::
 ::: {.cv-sub}
-*Statistical Consultant* — Delivered applied statistical analyses and reports for industry clients including L’Oréal; designed a custom data-driven web application for Raymond James.
+Designed web applications and delivered statistical reports for industry clients including L'Oréal and Raymond James.
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-line}
 ::: {.cv-left}
-Le Grand Verre Wines
+**Le Grand Verre Wines**, *Co-founder, President & Board Member, CMO*
 :::
 ::: {.cv-date}
 2015--2019
 :::
 :::
 ::: {.cv-sub}
-*Co-founder; CMO; Partner; President; Board Member* — Built and scaled an international e-commerce business; led strategy, marketing, and fundraising; secured external investment; managed cross-border operations and partnerships.
+Led market entry and growth strategy for a premium French wine company across the US and Europe; secured $60,000 investment and established key accounts in NYC and LA.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
+**Harvard University**, *Teaching Assistant & Guest Speaker*
+:::
+::: {.cv-date}
+2018
+:::
+:::
+::: {.cv-sub}
+Teaching assistant for Game Theory; guest lecturer on leadership and entrepreneurship.
 :::
 :::
 
 ## Technical Skills
 
-::: {.cv-sub}
-**Programming:** Python, R
-:::
-
-::: {.cv-sub}
-**Machine Learning:** Transformers, diffusion models, GANs, representation learning
-:::
-
-::: {.cv-sub}
-**Statistics:** GLMs, multivariate analysis, hypothesis testing
-:::
-
-::: {.cv-sub}
-**Tools:** Linux, Git, Shiny
-:::
-
-## Languages
-
-::: {.cv-sub}
-Spanish — Intermediate
-:::
+<div class="cv-sub"><strong>Programming:</strong> Python (PyTorch, HF), R, Bash</div>
+<div class="cv-sub"><strong>Machine Learning:</strong> Transformers, diffusion models, GANs, representation learning, set-based models</div>
+<div class="cv-sub"><strong>Statistics:</strong> GLMs, multivariate analysis, dimensionality reduction</div>
+<div class="cv-sub"><strong>Bioinformatics:</strong> Metagenomics, tokenisation, microbiome statistical analysis</div>
 
 ## Interests
 
-::: {.cv-sub}
-Endurance running (3 marathons, 3:13 PR), music, travel
-:::
+<div class="cv-sub">Generative AI for creative applications (animation, music); Running (2 marathons, 3:13 PB)</div>

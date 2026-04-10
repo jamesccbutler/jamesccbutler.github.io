@@ -14,7 +14,7 @@ format:
 <div class="cv-name">James C. C. Butler</div>
 
 <div class="cv-contact">
-jamesccbutler@gmail.com · +353 089 250 5361 · Ireland · Dual UK / US citizen · <a href="https://linkedin.com/in/jamescbutler">linkedin.com/in/jamescbutler</a>
+jamesccbutler@gmail.com · +353 089 250 5361 · Ireland · Dual UK / US citizen · <a href="https://linkedin.com/in/jamescbutler">LinkedIn</a>
 </div>
 
 <div class="cv-summary">
@@ -117,6 +117,20 @@ Designed and assessed problem sets; supported lab teaching and computational ass
 ::: {.cv-entry}
 ::: {.cv-line}
 ::: {.cv-left}
+**Harvard University**, *Teaching Assistant & Guest Speaker*
+:::
+::: {.cv-date}
+2018
+:::
+:::
+::: {.cv-sub}
+Teaching assistant for Game Theory; guest lecturer on leadership and entrepreneurship.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
 **DMP Statistical Solutions UK Ltd**, *Statistical Consultant*
 :::
 ::: {.cv-date}
@@ -139,20 +153,6 @@ Designed web applications and delivered statistical reports for industry clients
 :::
 ::: {.cv-sub}
 Led market entry and growth strategy for a premium French wine company across the US and Europe; secured $60,000 investment and established key accounts in NYC and LA.
-:::
-:::
-
-::: {.cv-entry}
-::: {.cv-line}
-::: {.cv-left}
-**Harvard University**, *Teaching Assistant & Guest Speaker*
-:::
-::: {.cv-date}
-2018
-:::
-:::
-::: {.cv-sub}
-Teaching assistant for Game Theory; guest lecturer on leadership and entrepreneurship.
 :::
 :::
 

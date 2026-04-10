@@ -10,6 +10,7 @@ format:
         \usepackage{enumitem}
         \setlist[itemize]{leftmargin=*, topsep=2pt, itemsep=1pt}
         \usepackage{parskip}
+        \usepackage{hyperref}
         \setlength{\parindent}{0pt}
         \usepackage{titlesec}
 
@@ -25,7 +26,7 @@ format:
 \begin{center}
 {\LARGE \textbf{James C. C. Butler}}\\
 \vspace{0.6em}
-jamesccbutler@gmail.com \;·\; +353 089 250 5361 \;·\; Ireland \;·\; Dual UK / US citizen \;·\; \url{linkedin.com/in/jamescbutler}
+jamesccbutler@gmail.com \;·\; +353 089 250 5361 \;·\; Ireland \;·\; Dual UK / US citizen \;·\; \href{https://linkedin.com/in/jamescbutler}{LinkedIn}
 \end{center}
 
 \vspace{0.5em}

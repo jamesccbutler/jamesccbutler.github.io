@@ -25,7 +25,7 @@ format:
 \begin{center}
 {\LARGE \textbf{James C. C. Butler}}\\
 \vspace{0.6em}
-jamesccbutler@gmail.com \;·\; +353 089 250 5361 \;·\; Ireland \;·\; Dual UK / US citizen
+jamesccbutler@gmail.com \;·\; +353 089 250 5361 \;·\; Ireland \;·\; Dual UK / US citizen \;·\; \url{linkedin.com/in/jamescbutler}
 \end{center}
 
 \vspace{0.5em}
@@ -116,6 +116,18 @@ Designed and assessed problem sets; supported lab teaching and computational ass
 
 \noindent
 \begin{minipage}[t]{0.85\textwidth}
+\textbf{Harvard University}, \emph{Teaching Assistant \& Guest Speaker}\\
+Teaching assistant for Game Theory; guest lecturer on leadership and entrepreneurship.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+\raggedleft \textbf{2018}
+\end{minipage}
+
+\vspace{0.6em}
+
+\noindent
+\begin{minipage}[t]{0.85\textwidth}
 \textbf{DMP Statistical Solutions UK Ltd}, \emph{Statistical Consultant}\\
 Designed web applications and delivered statistical reports for industry clients including L'Oréal and Raymond James.
 \end{minipage}%
@@ -134,18 +146,6 @@ Led market entry and growth strategy for a premium French wine company across th
 \hfill
 \begin{minipage}[t]{0.15\textwidth}
 \raggedleft \textbf{2015--2019}
-\end{minipage}
-
-\vspace{0.6em}
-
-\noindent
-\begin{minipage}[t]{0.85\textwidth}
-\textbf{Harvard University}, \emph{Teaching Assistant \& Guest Speaker}\\
-Teaching assistant for Game Theory; guest lecturer on leadership and entrepreneurship.
-\end{minipage}%
-\hfill
-\begin{minipage}[t]{0.15\textwidth}
-\raggedleft \textbf{2018}
 \end{minipage}
 ```
 

@@ -14,7 +14,7 @@ format:
 <div class="cv-name">James C. C. Butler</div>
 
 <div class="cv-contact">
-jamesccbutler@gmail.com · +353 089 250 5361 · Ireland · Dual UK / US citizen
+jamesccbutler@gmail.com · +353 089 250 5361 · Ireland · Dual UK / US citizen · <a href="https://linkedin.com/in/jamescbutler">linkedin.com/in/jamescbutler</a>
 </div>
 
 <div class="cv-summary">

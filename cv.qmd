@@ -156,8 +156,8 @@ Led market entry and growth strategy for a premium French wine company across th
 
 \noindent
 \begin{minipage}[t]{0.85\textwidth}
-\textbf{Generative Modeling Summer School / Statlearn}
-25.5 hours of lectures, 3 hours of exercises and a 2 hour poster session; including lectures on the foundational principles of generative molecular dynamics.\\
+\textbf{Generative Modeling Summer School / Statlearn}\\
+25.5 hours of lectures, 3 hours of exercises, including lectures on the foundational principles of generative molecular dynamics.
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.15\textwidth}
@@ -168,8 +168,8 @@ Led market entry and growth strategy for a premium French wine company across th
 
 \noindent
 \begin{minipage}[t]{0.85\textwidth}
-\textbf{Coursera}
-Generative Adversarial Networks (GANs) Specialization; Neural Networks and Deep Learning; Introduction to Genomic Technologies\\
+\textbf{Coursera}\\
+Generative Adversarial Networks (GANs) Specialization; Neural Networks and Deep Learning; Introduction to Genomic Technologies
 \end{minipage}
 
 ```

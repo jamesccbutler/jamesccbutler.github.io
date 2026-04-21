@@ -98,13 +98,51 @@ Contributed to research on lung injury prevention via reactive oxygen species; c
 \end{minipage}
 ```
 
+## Publications and Manuscripts
+
+```{=latex}
+\noindent
+\textbf{Butler, J.C.C.}, Claesson, M. \\
+\emph{Generative Artificial Intelligence for Microbiome Analysis} \\
+Manuscript in preparation
+
+\vspace{0.6em}
+
+\noindent
+\textbf{Butler, J.C.C.}, Claesson, M. \\
+\emph{Tranformer Models for Microbiome Analysis} \\
+Manuscript in preparation
+
+\vspace{0.6em}
+
+\noindent
+\textbf{Butler, J.C.C.}, Claesson, M. \\
+\emph{MicroDOSE: A Hybrid GAN–Diffusion Model for Microbiome Simulation and Enhanced Disease Classification} \\
+Manuscript in preparation
+
+\vspace{0.6em}
+
+\noindent
+\textbf{Butler, J.C.C.}, Claesson, M. \\
+\emph{LaMe Diffusion: Latent Microbiome Diffusion for Robust Disease Classification} \\
+Manuscript in preparation
+
+\vspace{0.6em}
+
+\noindent
+\textbf{Butler, J.C.C.}, Claesson, M. \\
+\emph{Meta-STOIC: A Metagenomic Sequence-Level Transformer for Order-Invariant Classification} \\
+Manuscript in preparation
+```
+
+
 ## Professional Experience
 
 ```{=latex}
 
 \noindent
 \begin{minipage}[t]{0.85\textwidth}
-\textbf{Univeristy College Cork}, \emph{Course Demonstrator}\\
+\textbf{University College Cork}, \emph{Course Demonstrator}\\
 Computational Biology (UG); Systems Biology (MSc); Genomic Data Analysis (MSc)\\
 Designed and assessed problem sets; supported lab teaching and computational assignments.
 \end{minipage}%

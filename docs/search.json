@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "cv-content.html",
+    "href": "cv-content.html",
+    "title": "",
+    "section": "",
+    "text": "James C. Butler\nBioinformatics PhD candidate & Marie Curie Fellow specializing in machine learning and generative AI for large-scale biological and healthcare data. Research experience with transformers, diffusion models, GANs, and statistical learning, with a strong foundation in applied statistics and interdisciplinary research."
+  },
+  {
+    "objectID": "cv-content.html#education",
+    "href": "cv-content.html#education",
+    "title": "",
+    "section": "Education",
+    "text": "Education\n\n\n\nPhD in Computer Science / Microbiology — Marie Curie Fellow, University College Cork\n\n\n2021–Present\n\n\n\nAdvisor: [Advisor name]\n\n\nThesis: [PhD thesis title]\n\n\n\n\n\nMSc Applied Statistics & Datamining (Distinction), University of St Andrews\n\n\n2019–2020\n\n\n\nAdvisor: [Advisor name]\n\n\nThesis: Synthetic Data for Training Convolutional Neural Networks (18.7 / 20)\n\n\n\n\n\nBA Economics & Visual and Environmental Studies, Harvard University\n\n\n2011–2015\n\n\n\nSelected quantitative training: econometrics, statistical methods, computational analysis"
+  },
+  {
+    "objectID": "cv-content.html#professional-experience",
+    "href": "cv-content.html#professional-experience",
+    "title": "",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\n\n\nImperial College London\n\n\n2020–2021\n\n\n\nResearch Assistant — Designed and conducted statistical analyses to identify systemic issues across health and social care systems; evaluated interventions and outcomes using applied statistical methods.\n\n\n\n\n\nDMP Statistical Solutions UK Ltd\n\n\n2020–2022\n\n\n\nStatistical Consultant — Delivered applied statistical analyses and reports for industry clients including L’Oréal; designed a custom data-driven web application for Raymond James.\n\n\n\n\n\nLe Grand Verre Wines\n\n\n2015–2019\n\n\n\nCo-founder; CMO; Partner; President; Board Member — Built and scaled an international e-commerce business; led strategy, marketing, and fundraising; secured external investment; managed cross-border operations and partnerships."
+  },
+  {
+    "objectID": "cv-content.html#technical-skills",
+    "href": "cv-content.html#technical-skills",
+    "title": "",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nProgramming: Python, R\n\n\nMachine Learning: Transformers, diffusion models, GANs, representation learning\n\n\nStatistics: GLMs, multivariate analysis, hypothesis testing\n\n\nTools: Linux, Git, Shiny"
+  },
+  {
+    "objectID": "cv-content.html#languages",
+    "href": "cv-content.html#languages",
+    "title": "",
+    "section": "Languages",
+    "text": "Languages\n\nSpanish — Intermediate"
+  },
+  {
+    "objectID": "cv-content.html#interests",
+    "href": "cv-content.html#interests",
+    "title": "",
+    "section": "Interests",
+    "text": "Interests\n\nEndurance running (3 marathons, 3:13 PR), music, travel"
+  }
+]

@@ -170,6 +170,8 @@ Led market entry and growth strategy for a premium French wine company across th
 \begin{minipage}[t]{0.85\textwidth}
 \textbf{Coursera}
 Generative Adversarial Networks (GANs) Specialization; Neural Networks and Deep Learning; Introduction to Genomic Technologies\\
+\end{minipage}
+
 ```
 
 ## Technical Skills

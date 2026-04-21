@@ -117,24 +117,24 @@ Designed and assessed problem sets; supported lab teaching and computational ass
 
 \noindent
 \begin{minipage}[t]{0.85\textwidth}
-\textbf{Harvard University}, \emph{Teaching Assistant \& Guest Speaker}\\
-Teaching assistant for Game Theory; guest lecturer on leadership and entrepreneurship.
-\end{minipage}%
-\hfill
-\begin{minipage}[t]{0.15\textwidth}
-\raggedleft \textbf{2018}
-\end{minipage}
-
-\vspace{0.6em}
-
-\noindent
-\begin{minipage}[t]{0.85\textwidth}
 \textbf{DMP Statistical Solutions UK Ltd}, \emph{Statistical Consultant}\\
 Designed web applications and delivered statistical reports for industry clients including L'Oréal and Raymond James.
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.15\textwidth}
 \raggedleft \textbf{2020--2022}
+\end{minipage}
+
+\vspace{0.6em}
+
+\noindent
+\begin{minipage}[t]{0.85\textwidth}
+\textbf{Harvard University}, \emph{Teaching Assistant \& Guest Speaker}\\
+Teaching assistant for Game Theory; guest lecturer on leadership and entrepreneurship.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+\raggedleft \textbf{2018}
 \end{minipage}
 
 \vspace{0.6em}

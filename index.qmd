@@ -117,20 +117,6 @@ Designed and assessed problem sets; supported lab teaching and computational ass
 ::: {.cv-entry}
 ::: {.cv-line}
 ::: {.cv-left}
-**Harvard University**, *Teaching Assistant & Guest Speaker*
-:::
-::: {.cv-date}
-2018
-:::
-:::
-::: {.cv-sub}
-Teaching assistant for Game Theory; guest lecturer on leadership and entrepreneurship.
-:::
-:::
-
-::: {.cv-entry}
-::: {.cv-line}
-::: {.cv-left}
 **DMP Statistical Solutions UK Ltd**, *Statistical Consultant*
 :::
 ::: {.cv-date}
@@ -139,6 +125,20 @@ Teaching assistant for Game Theory; guest lecturer on leadership and entrepreneu
 :::
 ::: {.cv-sub}
 Designed web applications and delivered statistical reports for industry clients including L'Oréal and Raymond James.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
+**Harvard University**, *Teaching Assistant & Guest Speaker*
+:::
+::: {.cv-date}
+2018
+:::
+:::
+::: {.cv-sub}
+Teaching assistant for Game Theory; guest lecturer on leadership and entrepreneurship.
 :::
 :::
 

@@ -99,31 +99,31 @@ Contributed to research on lung injury prevention via reactive oxygen species; c
 
 ::: {.cv-entry}
 ::: {.cv-sub}
-**Butler, J.C.C.** Generative Artificial Intelligence for Microbiome Analysis. *Manuscript in preparation.*
+Butler, J.C. Generative Artificial Intelligence for Microbiome Analysis. *Manuscript in preparation.*
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-sub}
-**Butler, J.C.C.** Transformer Models for Microbiome Analysis. *Manuscript in preparation.*
+Butler, J.C. Transformer Models for Microbiome Analysis. *Manuscript in preparation.*
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-sub}
-**Butler, J.C.C.**, J. Eckenberger, A. Temko, R. Khurana, M. J. Claesson. MicroDOSE: A Hybrid GAN–Diffusion Model for Microbiome Simulation and Enhanced Disease Classification. *Manuscript in preparation.*
+Butler, J.C., J. Eckenberger, A. Temko, R. Khurana, M. J. Claesson. MicroDOSE: A Hybrid GAN–Diffusion Model for Microbiome Simulation and Enhanced Disease Classification. *Manuscript in preparation.*
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-sub}
-**Butler, J.C.C.**, A. Temko, M. J. Claesson. LaMe Diffusion: Latent Microbiome Diffusion for Robust Disease Classification. *Manuscript in preparation.*
+Butler, J.C., A. Temko, M. J. Claesson. LaMe Diffusion: Latent Microbiome Diffusion for Robust Disease Classification. *Manuscript in preparation.*
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-sub}
-**Butler, J.C.C.**, S. Käll, E. Kristiansson. Meta-STOIC: A Metagenomic Sequence-Level Transformer for Order-Invariant Classification. *Manuscript in preparation.*
+Butler, J.C., S. Käll, E. Kristiansson. Meta-STOIC: A Metagenomic Sequence-Level Transformer for Order-Invariant Classification. *Manuscript in preparation.*
 :::
 :::
 

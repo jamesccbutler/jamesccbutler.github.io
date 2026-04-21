@@ -105,8 +105,8 @@ Contributed to research on lung injury prevention via reactive oxygen species; c
 \noindent
 \begin{minipage}[t]{0.85\textwidth}
 \textbf{Univeristy College Cork}, \emph{Course Demonstrator}\\
-Computational Biology (UG); Systems Biology, Genomic Data Analysis (MSc)\\
-Designed and assessed problem sets; supported lab teaching and computational assignments
+Computational Biology (UG); Systems Biology (MSc); Genomic Data Analysis (MSc)\\
+Designed and assessed problem sets; supported lab teaching and computational assignments.
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.15\textwidth}

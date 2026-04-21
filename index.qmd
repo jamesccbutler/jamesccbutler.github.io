@@ -107,10 +107,10 @@ Contributed to research on lung injury prevention via reactive oxygen species; c
 :::
 :::
 ::: {.cv-sub}
-Computational Biology (UG); Systems Biology, Genomic Data Analysis (MSc)
+Computational Biology (UG); Systems Biology (MSc); Genomic Data Analysis (MSc)
 :::
 ::: {.cv-sub}
-Designed and assessed problem sets; supported lab teaching and computational assignments
+Designed and assessed problem sets; supported lab teaching and computational assignments.
 :::
 :::
 

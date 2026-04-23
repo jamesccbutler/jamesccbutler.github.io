@@ -24,7 +24,7 @@ format:
 
 ```{=latex}
 \begin{center}
-{\LARGE \textbf{James C. C. Butler}}\\
+{\LARGE \textbf{James C. Butler}}\\
 \vspace{0.6em}
 jamesccbutler@gmail.com \;·\; +353 089 250 5361 \;·\; Ireland \;·\; Dual UK / US citizen \;·\; \href{https://linkedin.com/in/jamescbutler}{LinkedIn}
 \end{center}
@@ -101,6 +101,7 @@ Contributed to research on lung injury prevention via reactive oxygen species; c
 ## Publications and Manuscripts
 
 ```{=latex}
+
 \noindent
 \textbf{Butler, J.C.} Generative Artificial Intelligence for Microbiome Analysis. \emph{Manuscript in preparation.}
 
@@ -112,17 +113,28 @@ Contributed to research on lung injury prevention via reactive oxygen species; c
 \vspace{0.6em}
 
 \noindent
-\textbf{Butler, J.C.}, J. Eckenberger, A. Temko, R. Khurana, M. J. Claesson. MicroDOSE: A Hybrid GAN–Diffusion Model for Microbiome Simulation and Enhanced Disease Classification. \emph{Manuscript in preparation.}
+\textbf{Butler, J.C.}, Eckenberger, J., Temko, A., Khurana, R., Claesson, M.J. MicroDOSE: A Hybrid GAN--Diffusion Model for Microbiome Simulation and Enhanced Disease Classification. \emph{Manuscript in preparation.}
 
 \vspace{0.6em}
 
 \noindent
-\textbf{Butler, J.C.}, A. Temko, M. J. Claesson. LaMe Diffusion: Latent Microbiome Diffusion for Robust Disease Classification. \emph{Manuscript in preparation.}
+\textbf{Butler, J.C.}, Temko, A., Claesson, M.J. LaMe Diffusion: Latent Microbiome Diffusion for Robust Disease Classification. \emph{Manuscript in preparation.}
 
 \vspace{0.6em}
 
 \noindent
-\textbf{Butler, J.C.}, S. Käll, E. Kristiansson. Meta-STOIC: A Metagenomic Sequence-Level Transformer for Order-Invariant Classification. \emph{Manuscript in preparation.}
+\textbf{Butler, J.C.}, Käll, S., Kristiansson, E. Meta-STOIC: A Metagenomic Sequence-Level Transformer for Order-Invariant Classification. \emph{Manuscript in preparation.}
+
+\vspace{0.6em}
+
+\noindent
+Berntsson, F., Käll, S., Axelsson, M., \textbf{Butler, J.C.}, Nilsson, H., Kristiansson, E. Predicting the taxonomy of fungi using hierarchical transformers. \emph{Manuscript in preparation.}
+
+\vspace{0.6em}
+
+\noindent
+Eckenberger, J., \textbf{Butler, J.C.}, Bernstein, C.N., Shanahan, F., Claesson, M.J. (2022). Interactions between medications and the gut microbiome in inflammatory bowel disease. \emph{Microorganisms}, 10(10), 1963.
+
 ```
 
 
@@ -185,7 +197,7 @@ Led market entry and growth strategy for a premium French wine company across th
 \noindent
 \begin{minipage}[t]{0.85\textwidth}
 \textbf{Generative Modeling Summer School / Statlearn}\\
-25.5 hours of lectures, 3 hours of exercises, including lectures on the foundational principles of generative molecular dynamics.
+25.5 hours of lectures and 3 hours of exercises covering the foundations of generative modelling (transformers, GANs, diffusion), with applications to molecular dynamics and drug design.
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.15\textwidth}

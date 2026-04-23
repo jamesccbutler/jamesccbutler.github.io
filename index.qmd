@@ -111,19 +111,31 @@ Contributed to research on lung injury prevention via reactive oxygen species; c
 
 ::: {.cv-entry}
 ::: {.cv-sub}
-**Butler, J.C.**, J. Eckenberger, A. Temko, R. Khurana, M. J. Claesson. MicroDOSE: A Hybrid GAN–Diffusion Model for Microbiome Simulation and Enhanced Disease Classification. *Manuscript in preparation.*
+**Butler, J.C.**, Eckenberger, J., Temko, A., Khurana, R., Claesson, M.J. MicroDOSE: A Hybrid GAN–Diffusion Model for Microbiome Simulation and Enhanced Disease Classification. *Manuscript in preparation.*
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-sub}
-**Butler, J.C.**, A. Temko, M. J. Claesson. LaMe Diffusion: Latent Microbiome Diffusion for Robust Disease Classification. *Manuscript in preparation.*
+**Butler, J.C.**, Temko, A., Claesson, M.J. LaMe Diffusion: Latent Microbiome Diffusion for Robust Disease Classification. *Manuscript in preparation.*
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-sub}
-**Butler, J.C.**, S. Käll, E. Kristiansson. Meta-STOIC: A Metagenomic Sequence-Level Transformer for Order-Invariant Classification. *Manuscript in preparation.*
+**Butler, J.C.**, Käll, S., Kristiansson, E. Meta-STOIC: A Metagenomic Sequence-Level Transformer for Order-Invariant Classification. *Manuscript in preparation.*
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-sub}
+Berntsson, F., Käll, S., Axelsson, M., **Butler, J.C.**, Nilsson, H., Kristiansson, E. Predicting the taxonomy of fungi using hierarchical transformers. *Manuscript in preparation.*
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-sub}
+Eckenberger, J., **Butler, J.C.**, Bernstein, C.N., Shanahan, F., Claesson, M.J. (2022). Interactions between medications and the gut microbiome in inflammatory bowel disease. *Microorganisms*, 10(10), 1963.
 :::
 :::
 
@@ -201,7 +213,7 @@ Led market entry and growth strategy for a premium French wine company across th
 :::
 :::
 ::: {.cv-sub}
-25.5 hours of lectures, 3 hours of exercises and a 2 hour poster session; including lectures on the foundational principles of generative molecular dynamics.
+25.5 hours of lectures and 3 hours of exercises covering the foundations of generative modelling (transformers, GANs, diffusion), with applications to molecular dynamics and drug design.
 :::
 :::
 

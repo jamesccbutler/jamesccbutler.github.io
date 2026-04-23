@@ -234,7 +234,7 @@ Generative Adversarial Networks (GANs) Specialization; Neural Networks and Deep 
 <div class="cv-sub"><strong>Programming:</strong> Python (PyTorch, HF), R, Bash</div>
 <div class="cv-sub"><strong>Machine Learning:</strong> Transformers, diffusion models, GANs, representation learning, set-based models</div>
 <div class="cv-sub"><strong>Statistics:</strong> GLMs, multivariate analysis, dimensionality reduction</div>
-<div class="cv-sub"><strong>Bioinformatics:</strong> Metagenomics, tokenisation, microbiome statistical analysis</div>
+<div class="cv-sub"><strong>Bioinformatics:</strong> Metagenomics, tokenization, microbiome statistical analysis</div>
 
 ## Interests
 

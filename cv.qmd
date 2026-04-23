@@ -219,7 +219,7 @@ Generative Adversarial Networks (GANs) Specialization; Neural Networks and Deep 
 \textbf{Programming:} Python (PyTorch, HF), R, Bash\\
 \textbf{Machine Learning:} Transformers, diffusion models, GANs, representation learning, set-based models\\
 \textbf{Statistics:} GLMs, multivariate analysis, dimensionality reduction\\
-\textbf{Bioinformatics:} Metagenomics, tokenisation, microbiome statistical analysis\\
+\textbf{Bioinformatics:} Metagenomics, tokenization, microbiome statistical analysis\\
 \vspace{-1em}
 ```
 

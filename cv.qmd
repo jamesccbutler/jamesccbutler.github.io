@@ -38,7 +38,7 @@ Bioinformatician and machine learning researcher developing generative and trans
 
 ```{=latex}
 \noindent
-\begin{minipage}[t]{0.82\textwidth}
+\begin{minipage}[t]{0.83\textwidth}
 \textbf{University College Cork}, \emph{PhD Computer Science \& Microbiology (Marie-Curie Fellow)}\\
 Advisor: Marcus Claesson \;|\; Thesis: ``Generative Modelling and Transformer-Based Sequence Learning for Microbiome Analysis''
 \end{minipage}%
@@ -50,7 +50,7 @@ Advisor: Marcus Claesson \;|\; Thesis: ``Generative Modelling and Transformer-Ba
 \vspace{0.6em}
 
 \noindent
-\begin{minipage}[t]{0.82\textwidth}
+\begin{minipage}[t]{0.83\textwidth}
 \textbf{University of St Andrews}, \emph{MSc Applied Statistics \& Datamining (Distinction)}\\
 Advisor: Carl Donovan \;|\; Thesis: ``Synthetic Data for Training Convolutional Neural Networks''
 \end{minipage}%
@@ -62,7 +62,7 @@ Advisor: Carl Donovan \;|\; Thesis: ``Synthetic Data for Training Convolutional 
 \vspace{0.6em}
 
 \noindent
-\begin{minipage}[t]{0.82\textwidth}
+\begin{minipage}[t]{0.83\textwidth}
 \textbf{Harvard University}, \emph{BA Economics}\\
 Secondary Field in Visual Environmental Studies
 \end{minipage}%
@@ -76,10 +76,9 @@ Secondary Field in Visual Environmental Studies
 
 ```{=latex}
 \noindent
-\begin{minipage}[t]{0.82\textwidth}
-\raggedright
+\begin{minipage}[t]{0.83\textwidth}
 \textbf{Chalmers University of Technology}, \emph{Visiting Researcher}\\
-Developed Meta-STOIC, a transformer-based model for order-invariant disease \mbox{classification} directly from metagenomic sequences.
+Developed Meta-STOIC, a transformer-based model for order-invariant disease classification directly from metagenomic sequences.
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.15\textwidth}
@@ -89,7 +88,7 @@ Developed Meta-STOIC, a transformer-based model for order-invariant disease \mbo
 \vspace{0.6em}
 
 \noindent
-\begin{minipage}[t]{0.82\textwidth}
+\begin{minipage}[t]{0.83\textwidth}
 \textbf{Imperial College London}, \emph{Research Assistant (NIHR Applied Research Collaboration)}\\
 Designed and conducted statistical analyses to identify system-level challenges across health and social care, informing targeted interventions and evaluation strategies.
 \end{minipage}%
@@ -101,7 +100,7 @@ Designed and conducted statistical analyses to identify system-level challenges 
 \vspace{0.6em}
 
 \noindent
-\begin{minipage}[t]{0.82\textwidth}
+\begin{minipage}[t]{0.83\textwidth}
 \textbf{University of Pennsylvania}, \emph{Research Assistant, Biomechanics Lab}\\
 Contributed to research on lung injury prevention via reactive oxygen species; conducted experimental data collection and analysis on lung and brain pathologies.
 \end{minipage}%
@@ -156,7 +155,7 @@ Eckenberger, J., \textbf{Butler, J.C.}, Bernstein, C.N., Shanahan, F., Claesson,
 ```{=latex}
 
 \noindent
-\begin{minipage}[t]{0.82\textwidth}
+\begin{minipage}[t]{0.83\textwidth}
 \textbf{University College Cork}, \emph{Course Demonstrator}\\
 Computational Biology (UG); Systems Biology (MSc); Genomic Data Analysis (MSc)\\
 Designed and assessed problem sets; supported lab teaching and computational assignments.
@@ -169,7 +168,7 @@ Designed and assessed problem sets; supported lab teaching and computational ass
 \vspace{0.6em}
 
 \noindent
-\begin{minipage}[t]{0.82\textwidth}
+\begin{minipage}[t]{0.83\textwidth}
 \textbf{DMP Statistical Solutions UK Ltd}, \emph{Statistical Consultant}\\
 Designed web applications and delivered statistical reports for industry clients including L'Oréal and Raymond James.
 \end{minipage}%
@@ -181,7 +180,7 @@ Designed web applications and delivered statistical reports for industry clients
 \vspace{0.6em}
 
 \noindent
-\begin{minipage}[t]{0.82\textwidth}
+\begin{minipage}[t]{0.83\textwidth}
 \textbf{Harvard University}, \emph{Teaching Assistant \& Guest Speaker}\\
 Teaching assistant for Game Theory; guest lecturer on leadership and entrepreneurship.
 \end{minipage}%
@@ -193,7 +192,7 @@ Teaching assistant for Game Theory; guest lecturer on leadership and entrepreneu
 \vspace{0.6em}
 
 \noindent
-\begin{minipage}[t]{0.82\textwidth}
+\begin{minipage}[t]{0.83\textwidth}
 \textbf{Le Grand Verre Wines}, \emph{Co-founder, President \& Board Member, CMO}\\
 Led market entry and growth strategy for a premium French wine company across the US and Europe; secured \$60,000 investment and established key accounts in NYC and LA.
 \end{minipage}%
@@ -208,7 +207,7 @@ Led market entry and growth strategy for a premium French wine company across th
 ```{=latex}
 
 \noindent
-\begin{minipage}[t]{0.82\textwidth}
+\begin{minipage}[t]{0.83\textwidth}
 \textbf{Generative Modeling Summer School / Statlearn}\\
 25.5 hours of lectures and 3 hours of exercises covering the foundations of generative modelling (transformers, GANs, diffusion), with applications to molecular dynamics and drug design.
 \end{minipage}%
@@ -220,7 +219,7 @@ Led market entry and growth strategy for a premium French wine company across th
 \vspace{0.6em}
 
 \noindent
-\begin{minipage}[t]{0.82\textwidth}
+\begin{minipage}[t]{0.83\textwidth}
 \textbf{Coursera}\\
 Generative Adversarial Networks (GANs) Specialization; Neural Networks and Deep Learning; Introduction to Genomic Technologies
 \end{minipage}

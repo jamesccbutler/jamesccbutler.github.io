@@ -70,6 +70,20 @@ Secondary Field in Visual Environmental Studies
 ::: {.cv-entry}
 ::: {.cv-line}
 ::: {.cv-left}
+**Chalmers University of Technology**, *Visiting Researcher*
+:::
+::: {.cv-date}
+Aug--Dec 2024
+:::
+:::
+::: {.cv-sub}
+Developed Meta-STOIC, a transformer-based model for order-invariant disease classification directly from metagenomic sequences.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-line}
+::: {.cv-left}
 **Imperial College London**, *Research Assistant (NIHR Applied Research Collaboration)*
 :::
 ::: {.cv-date}
@@ -99,31 +113,31 @@ Contributed to research on lung injury prevention via reactive oxygen species; c
 
 ::: {.cv-entry}
 ::: {.cv-sub}
-**Butler, J.C.** Generative Artificial Intelligence for Microbiome Analysis. *Manuscript in preparation.*
+**Butler, J.C.** Generative Artificial Intelligence for Microbiome Analysis. *Published as a chapter in my thesis, in preparation for publication.*
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-sub}
-**Butler, J.C.** Transformer Models for Microbiome Analysis. *Manuscript in preparation.*
+**Butler, J.C.** Transformer Models for Microbiome Analysis. *Published as a chapter in my thesis, in preparation for publication.*
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-sub}
-**Butler, J.C.**, Eckenberger, J., Temko, A., Khurana, R., Claesson, M.J. MicroDOSE: A Hybrid GAN–Diffusion Model for Microbiome Simulation and Enhanced Disease Classification. *Manuscript in preparation.*
+**Butler, J.C.**, Eckenberger, J., Temko, A., Khurana, R., Claesson, M.J. MicroDOSE: A Hybrid GAN–Diffusion Model for Microbiome Simulation and Enhanced Disease Classification. *Published as a chapter in my thesis, in preparation for publication.*
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-sub}
-**Butler, J.C.**, Temko, A., Claesson, M.J. LaMe Diffusion: Latent Microbiome Diffusion for Robust Disease Classification. *Manuscript in preparation.*
+**Butler, J.C.**, Temko, A., Claesson, M.J. LaMe Diffusion: Latent Microbiome Diffusion for Robust Disease Classification. *Published as a chapter in my thesis, in preparation for publication.*
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-sub}
-**Butler, J.C.**, Käll, S., Kristiansson, E. Meta-STOIC: A Metagenomic Sequence-Level Transformer for Order-Invariant Classification. *Manuscript in preparation.*
+**Butler, J.C.**, Käll, S., Kristiansson, E. Meta-STOIC: A Metagenomic Sequence-Level Transformer for Order-Invariant Classification. *Published as a chapter in my thesis, in preparation for publication.*
 :::
 :::
 

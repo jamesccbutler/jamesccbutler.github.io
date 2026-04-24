@@ -77,6 +77,18 @@ Secondary Field in Visual Environmental Studies
 ```{=latex}
 \noindent
 \begin{minipage}[t]{0.85\textwidth}
+\textbf{Chalmers University of Technology}, \emph{Visiting Researcher}\\
+Developed Meta-STOIC, a transformer-based model for order-invariant disease classification directly from metagenomic sequences.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+\raggedleft \textbf{Aug--Dec 2024}
+\end{minipage}
+
+\vspace{0.6em}
+
+\noindent
+\begin{minipage}[t]{0.85\textwidth}
 \textbf{Imperial College London}, \emph{Research Assistant (NIHR Applied Research Collaboration)}\\
 Designed and conducted statistical analyses to identify system-level challenges across health and social care, informing targeted interventions and evaluation strategies.
 \end{minipage}%
@@ -103,27 +115,27 @@ Contributed to research on lung injury prevention via reactive oxygen species; c
 ```{=latex}
 
 \noindent
-\textbf{Butler, J.C.} Generative Artificial Intelligence for Microbiome Analysis. \emph{Manuscript in preparation.}
+\textbf{Butler, J.C.} Generative Artificial Intelligence for Microbiome Analysis. \emph{Published as a chapter in my thesis, in preparation for publication.}
 
 \vspace{0.6em}
 
 \noindent
-\textbf{Butler, J.C.} Transformer Models for Microbiome Analysis. \emph{Manuscript in preparation.}
+\textbf{Butler, J.C.} Transformer Models for Microbiome Analysis. \emph{Published as a chapter in my thesis, in preparation for publication.}
 
 \vspace{0.6em}
 
 \noindent
-\textbf{Butler, J.C.}, Eckenberger, J., Temko, A., Khurana, R., Claesson, M.J. MicroDOSE: A Hybrid GAN--Diffusion Model for Microbiome Simulation and Enhanced Disease Classification. \emph{Manuscript in preparation.}
+\textbf{Butler, J.C.}, Eckenberger, J., Temko, A., Khurana, R., Claesson, M.J. MicroDOSE: A Hybrid GAN--Diffusion Model for Microbiome Simulation and Enhanced Disease Classification. \emph{Published as a chapter in my thesis, in preparation for publication.}
 
 \vspace{0.6em}
 
 \noindent
-\textbf{Butler, J.C.}, Temko, A., Claesson, M.J. LaMe Diffusion: Latent Microbiome Diffusion for Robust Disease Classification. \emph{Manuscript in preparation.}
+\textbf{Butler, J.C.}, Temko, A., Claesson, M.J. LaMe Diffusion: Latent Microbiome Diffusion for Robust Disease Classification. \emph{Published as a chapter in my thesis, in preparation for publication.}
 
 \vspace{0.6em}
 
 \noindent
-\textbf{Butler, J.C.}, Käll, S., Kristiansson, E. Meta-STOIC: A Metagenomic Sequence-Level Transformer for Order-Invariant Classification. \emph{Manuscript in preparation.}
+\textbf{Butler, J.C.}, Käll, S., Kristiansson, E. Meta-STOIC: A Metagenomic Sequence-Level Transformer for Order-Invariant Classification. \emph{Published as a chapter in my thesis, in preparation for publication.}
 
 \vspace{0.6em}
 

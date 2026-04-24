@@ -82,7 +82,7 @@ Developed Meta-STOIC, a transformer-based model for order-invariant disease clas
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.15\textwidth}
-\raggedleft \textbf{Aug--Dec 2024}
+\raggedleft \textbf{Aug--Dec~2024}
 \end{minipage}
 
 \vspace{0.6em}

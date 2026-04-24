@@ -78,7 +78,7 @@ Secondary Field in Visual Environmental Studies
 \noindent
 \begin{minipage}[t]{0.82\textwidth}
 \textbf{Chalmers University of Technology}, \emph{Visiting Researcher}\\
-Developed Meta-STOIC, a transformer-based model for order-invariant disease classification directly from metagenomic sequences.
+Developed Meta-STOIC, a transformer-based model for order-invariant disease \mbox{classification} directly from metagenomic sequences.
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.15\textwidth}
